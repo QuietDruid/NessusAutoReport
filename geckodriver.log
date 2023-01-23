@@ -1,0 +1,41 @@
+1670952587293	geckodriver	INFO	Listening on 127.0.0.1:60437
+1670952590375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60438" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sharp\\AppData\\Local\\Temp\\rust_mozprofilenRCw4s"
+1670952590642	Marionette	INFO	Marionette enabled
+1670952590646	Marionette	INFO	Listening on port 60451
+WebDriver BiDi listening on ws://127.0.0.1:60438
+Read port: 60451
+1670952590805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sharp\\AppData\\Local\\Temp\\rust_mozprofilenRCw4s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60438/devtools/browser/8fcae9e1-b9c0-451c-a6d6-b31b1e59ae5d
+1670952618580	Marionette	INFO	Stopped listening on port 60451
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60494" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sharp\\AppData\\Local\\Temp\\rust_mozprofileoigF3q"
+1670952616820	Marionette	INFO	Marionette enabled
+1670952616823	Marionette	INFO	Listening on port 60503
+WebDriver BiDi listening on ws://127.0.0.1:60494
+Read port: 60503
+1670952616996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sharp\\AppData\\Local\\Temp\\rust_mozprofileoigF3q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60494/devtools/browser/7788dfe1-c45a-4b15-a6f7-0107108cbe93
+1670952743294	Marionette	INFO	Stopped listening on port 60503
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sharp\\AppData\\Local\\Temp\\rust_mozprofile0xhTT1"
+1670952636132	Marionette	INFO	Marionette enabled
+1670952636135	Marionette	INFO	Listening on port 60558
+WebDriver BiDi listening on ws://127.0.0.1:60549
+Read port: 60558
+1670952636307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sharp\\AppData\\Local\\Temp\\rust_mozprofile0xhTT1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60549/devtools/browser/eb937b8d-e73b-4f01-8101-e95a8ed65540
+JavaScript error: https://localhost:8834/nessus6.js?v=1667336869859, line 41: TypeError: b.detailed_status is undefined
+JavaScript error: https://localhost:8834/nessus6.js?v=1667336869859, line 41: TypeError: b.detailed_status is undefined
+JavaScript error: https://localhost:8834/nessus6.js?v=1667336869859, line 41: TypeError: b.detailed_status is undefined
+JavaScript error: https://localhost:8834/nessus6.js?v=1667336869859, line 41: TypeError: b.detailed_status is undefined
+JavaScript error: https://localhost:8834/nessus6.js?v=1667336869859, line 41: TypeError: b.detailed_status is undefined
+JavaScript error: https://localhost:8834/nessus6.js?v=1667336869859, line 41: TypeError: b.detailed_status is undefined
+JavaScript error: https://localhost:8834/nessus6.js?v=1667336869859, line 41: TypeError: b.detailed_status is undefined
+JavaScript error: https://localhost:8834/nessus6.js?v=1667336869859, line 41: TypeError: b.detailed_status is undefined
+JavaScript error: https://localhost:8834/nessus6.js?v=1667336869859, line 41: TypeError: b.detailed_status is undefined
+JavaScript error: https://localhost:8834/nessus6.js?v=1667336869859, line 41: TypeError: b.detailed_status is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670952715157	Marionette	INFO	Stopped listening on port 60558
