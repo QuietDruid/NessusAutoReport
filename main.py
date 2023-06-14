@@ -63,10 +63,10 @@ def handlecsvdownload():
 
 
 if __name__ == '__main__':
-    folderhandler.doesfolderexist()
+   # folderhandler.doesfolderexist()
 
     handlecsvdownload()
 
-    pdfmaker.callpdfmaker()
+   # pdfmaker.callpdfmaker()
 
-    folderhandler.movetofolder()
+    #folderhandler.movetofolder()
