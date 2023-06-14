@@ -1,4 +1,6 @@
 # Nessus AutoReport 
+## NOTICE CURRENT VERSION PROBABLY DOESN'T WORK ON WINDOWS DUE TO DIRECTORY SLASHES USE ON LINUX OR WSL
+
 ## Idea
 
 Short "portable" script designed to use vulnerablility results from Tenable's Nessus. Taking a docx template and display the number of vulnerabilities, sorted by severity. Then listing which losts are impacted by IP and by which potential vulnerability. While Nessus does provide its own reports, simplfying down to certain vulnerabilities assigning names and numbers to the problem helps getting action taken to resolve the issue. Only requiring technician intervention when initially downloading the program onto work device and modifying the template logo, as well as, before presenting if any vulnerability is a non-issue.
